@@ -1,2 +1,2 @@
 # AutoFlowChart
-Generate flowchart with simple code
+Generate Flowchart With Simple Code
